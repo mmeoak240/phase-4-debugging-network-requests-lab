@@ -63,6 +63,7 @@ developing your own process.
 - Add a new toy when the toy form is submitted
 
   - How I debugged:
+    Attempted to create a new toy. checked Network tab in browser tools. Saw the error was uninitialized constant "Toys" should be Toy
 
 - Update the number of likes for a toy
 
